@@ -3,7 +3,6 @@
 	Changes to this CSS file might be lost when it is regenerated.
 */
 
-
 #icon2.waf-state-state3 {
 	 border-top-color: rgb(0, 0, 0);
 	 border-top-style: solid;
@@ -25,7 +24,8 @@
 	-moz-border-radius-bottomleft: 10px;
 	 border-bottom-right-radius: 10px;
 	-moz-border-radius-bottomright: 10px;
-	 transform:translateX(10px);
+	transform:translateX(10px);
+	 
 }
 
 #icon12.waf-state-state3 {
@@ -49,7 +49,8 @@
 	-moz-border-radius-bottomleft: 10px;
 	 border-bottom-right-radius: 10px;
 	-moz-border-radius-bottomright: 10px;
-	 transform:translateX(10px);
+	transform:translateX(10px);
+	 
 }
 
 #icon10.waf-state-state3 {
@@ -205,9 +206,7 @@
 	 border-left-color: rgb(0, 0, 0);
 	 border-right-color: rgb(0, 0, 0);
 	 border-bottom-color: rgb(0, 0, 0);
-	 -ms-transform: rotate(10deg); 
-    -webkit-transform: rotate(10deg); 
-    transform: rotate(10deg);
+	 -webkit-transform: rotate(10deg);
 	 
 }
 
@@ -232,9 +231,8 @@
 	 border-left-color: rgb(0, 0, 0);
 	 border-right-color: rgb(0, 0, 0);
 	 border-bottom-color: rgb(0, 0, 0);
-	  -ms-transform: rotate(10deg); 
-    -webkit-transform: rotate(10deg); 
-    transform: rotate(10deg)
+	 -webkit-transform: rotate(10deg);
+	 
 }
 
 #icon10.waf-state-state2 {
@@ -258,9 +256,8 @@
 	 border-left-color: rgb(0, 0, 0);
 	 border-right-color: rgb(0, 0, 0);
 	 border-bottom-color: rgb(0, 0, 0);
-	  -ms-transform: rotate(10deg); 
-    -webkit-transform: rotate(10deg); 
-    transform: rotate(10deg)
+	 -webkit-transform: rotate(10deg);
+	 
 }
 
 #icon9.waf-state-state2 {
@@ -284,9 +281,8 @@
 	 border-left-color: rgb(0, 0, 0);
 	 border-right-color: rgb(0, 0, 0);
 	 border-bottom-color: rgb(0, 0, 0);
-	  -ms-transform: rotate(10deg); 
-    -webkit-transform: rotate(10deg); 
-    transform: rotate(10deg)
+	 -webkit-transform: rotate(10deg);
+	 
 }
 
 #icon1.waf-state-state2 {
@@ -310,9 +306,8 @@
 	 border-left-color: rgb(0, 0, 0);
 	 border-right-color: rgb(0, 0, 0);
 	 border-bottom-color: rgb(0, 0, 0);
-	  -ms-transform: rotate(10deg); 
-    -webkit-transform: rotate(10deg); 
-    transform: rotate(10deg)
+	 -webkit-transform: rotate(10deg);
+	 
 }
 
 #icon7.waf-state-state2 {
@@ -336,9 +331,8 @@
 	 border-left-color: rgb(0, 0, 0);
 	 border-right-color: rgb(0, 0, 0);
 	 border-bottom-color: rgb(0, 0, 0);
-	  -ms-transform: rotate(10deg); 
-    -webkit-transform: rotate(10deg); 
-    transform: rotate(10deg)
+	 -webkit-transform: rotate(10deg);
+	 
 }
 
 #icon2.waf-state-state2 {
@@ -362,23 +356,23 @@
 	 border-left-color: rgb(0, 0, 0);
 	 border-right-color: rgb(0, 0, 0);
 	 border-bottom-color: rgb(0, 0, 0);
-	  -ms-transform: rotate(10deg); 
-    -webkit-transform: rotate(10deg); 
-    transform: rotate(10deg)
+	 -webkit-transform: rotate(10deg);
+	 
+	 
 }
 
 #label1 {
 	 z-index: 2;
-	 width: 36px;
-	 height: 20px;
-	 top: 12px;
-	 left: 59px;
+	 width: 35px;
+	 height: 18px;
+	 top: 13px;
+	 left: 61px;
 	
 	 position: absolute;
 	 text-shadow: rgb(255, 255, 255) 0px 0px 0px;
 	 font-size: 16px;
 	 color: rgb(0, 0, 0);
-	 text-align: right;
+	 text-align: left;
 	 
 }
 
@@ -387,7 +381,7 @@
 	 width: 45px;
 	 height: 40px;
 	 top: 2px;
-	 left: 100px;
+	 left: 101px;
 	
 	 position: absolute;
 	 border-top-style: none;
@@ -434,10 +428,10 @@
 
 #label13 {
 	 z-index: 2;
-	 width: 40px;
-	 height: 20px;
-	 top: 12px;
-	 left: 60px;
+	 width: 44px;
+	 height: 18px;
+	 top: 13px;
+	 left: 56px;
 	
 	 position: absolute;
 	 text-shadow: rgb(255, 255, 255) 0px 0px 0px;
@@ -499,16 +493,16 @@
 
 #label12 {
 	 z-index: 2;
-	 width: 75px;
-	 height: 20px;
-	 top: 12px;
-	 left: 35px;
+	 width: 65px;
+	 height: 18px;
+	 top: 13px;
+	 left: 45px;
 	
 	 position: absolute;
 	 text-shadow: rgb(255, 255, 255) 0px 0px 0px;
 	 font-size: 16px;
 	 color: rgb(0, 0, 0);
-	 text-align: right;
+	 text-align: left;
 	 
 }
 
@@ -564,16 +558,16 @@
 
 #label11 {
 	 z-index: 2;
-	 width: 36px;
-	 height: 20px;
-	 top: 12px;
-	 left: 59px;
+	 width: 35px;
+	 height: 18px;
+	 top: 13px;
+	 left: 61px;
 	
 	 position: absolute;
 	 text-shadow: rgb(255, 255, 255) 0px 0px 0px;
 	 font-size: 16px;
 	 color: rgb(0, 0, 0);
-	 text-align: right;
+	 text-align: left;
 	 
 }
 
@@ -582,7 +576,7 @@
 	 width: 45px;
 	 height: 40px;
 	 top: 2px;
-	 left: 100px;
+	 left: 101px;
 	
 	 position: absolute;
 	 border-top-style: none;
@@ -630,16 +624,16 @@
 
 #label10 {
 	 z-index: 2;
-	 width: 36px;
-	 height: 20px;
-	 top: 12px;
-	 left: 59px;
+	 width: 35px;
+	 height: 18px;
+	 top: 13px;
+	 left: 61px;
 	
 	 position: absolute;
 	 text-shadow: rgb(255, 255, 255) 0px 0px 0px;
 	 font-size: 16px;
 	 color: rgb(0, 0, 0);
-	 text-align: right;
+	 text-align: left;
 	 
 }
 
@@ -648,7 +642,7 @@
 	 width: 45px;
 	 height: 40px;
 	 top: 2px;
-	 left: 100px;
+	 left: 101px;
 	
 	 position: absolute;
 	 border-top-style: none;
@@ -696,15 +690,15 @@
 #label8 {
 	 z-index: 2;
 	 width: 19px;
-	 height: 20px;
-	 top: 12px;
+	 height: 18px;
+	 top: 13px;
 	 left: 68px;
 	
 	 position: absolute;
 	 text-shadow: rgb(255, 255, 255) 0px 0px 0px;
 	 font-size: 16px;
 	 color: rgb(0, 0, 0);
-	 text-align: right;
+	 text-align: left;
 	 
 }
 
@@ -890,8 +884,6 @@
 
 #waf-body {
 	 background-color: rgb(204, 204, 204);
-	 background-image: url('/data:image/svg+xml;
-	base64,%20PD94bWwgdmVyc2lvbj0iMS4wIiA/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB2aWV3Qm94PSIwIDAgMSAxIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJub25lIj48bGluZWFyR3JhZGllbnQgaWQ9IndhZi1pZS1ncmFkaWVudCIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIHg9IjAiIHk9IjAiIHgyPSIxMDAlIiB5Mj0iMCI+PHN0b3Agc3RvcC1jb2xvcj0iI2ZmZmZmZiIgb2Zmc2V0PSJOYU4lIiBzdG9wLW9wYWNpdHk9IjEiIC8+PHN0b3Agc3RvcC1jb2xvcj0iI2ZmZmZmZiIgb2Zmc2V0PSJOYU4lIiBzdG9wLW9wYWNpdHk9IjEiIC8+PC9saW5lYXJHcmFkaWVudD48cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSJ1cmwoI3dhZi1pZS1ncmFkaWVudCkiIC8+PC9zdmc+');
 	 
 }
 
