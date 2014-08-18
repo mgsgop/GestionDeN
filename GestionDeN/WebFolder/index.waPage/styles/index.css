@@ -3,11 +3,127 @@
 	Changes to this CSS file might be lost when it is regenerated.
 */
 
-#container5 {
+#icon5 {
+	 z-index: 3;
+	 width: 62px;
+	 height: 50px;
+	 top: 1px;
+	 left: 360px;
+	
+	 position: absolute;
+	 
+}
+
+#login1 {
+	 z-index: 4;
+	 width: 646px;
+	 height: 49px;
+	 top: 0px;
+	 left: 569px;
+	
+	 position: absolute;
+	 font-size: 14px;
+	 font-weight: bold;
+	 border-top-width: 0px;
+	 border-top-color: rgb(102, 102, 102);
+	 border-top-style: none;
+	 border-left-width: 0px;
+	 border-left-color: rgb(102, 102, 102);
+	 border-left-style: none;
+	 border-right-width: 0px;
+	 border-right-color: rgb(102, 102, 102);
+	 border-right-style: none;
+	 border-bottom-width: 0px;
+	 border-bottom-color: rgb(102, 102, 102);
+	 border-bottom-style: none;
+	 background-color: rgb(102, 102, 102);
+	 border-top-left-radius: 10px;
+	-moz-border-radius-topleft: 10px;
+	 border-top-right-radius: 10px;
+	-moz-border-radius-topright: 10px;
+	 border-bottom-left-radius: 10px;
+	-moz-border-radius-bottomleft: 10px;
+	 border-bottom-right-radius: 10px;
+	-moz-border-radius-bottomright: 10px;
+	 
+}
+
+#icon3 {
+	 z-index: 2;
+	 width: 67px;
+	 height: 47px;
+	 top: 1px;
+	 left: 1px;
+	
+	 position: absolute;
+	 
+}
+
+#richText1 {
+	 z-index: 1;
+	 width: 388px;
+	 height: 21px;
+	 top: 17px;
+	 left: 451px;
+	
+	 position: absolute;
+	 font-size: 18px;
+	 
+}
+
+#label4 {
 	 z-index: 25;
+	 width: 49px;
+	 height: 21px;
+	 top: 77px;
+	 left: 700px;
+	
+	 position: absolute;
+	 font-size: 18px;
+	 
+}
+
+#combobox2 {
+	 z-index: 25;
+	 width: 164px;
+	 height: 24px;
+	 top: 76px;
+	 left: 754px;
+	
+	 position: absolute;
+	 font-size: 10px;
+	 
+}
+
+#label2 {
+	 z-index: 24;
+	 width: 160px;
+	 height: 20px;
+	 top: 77px;
+	 left: 308px;
+	
+	 position: absolute;
+	 font-size: 18px;
+	 
+}
+
+#combobox1 {
+	 z-index: 24;
+	 width: 164px;
+	 height: 24px;
+	 top: 75px;
+	 left: 473px;
+	
+	 position: absolute;
+	 font-size: 10px;
+	 
+}
+
+#container5 {
+	 z-index: 23;
 	 width: 240px;
 	 height: 467px;
-	 top: 91px;
+	 top: 106px;
 	 left: 62px;
 	
 	 position: absolute;
@@ -36,24 +152,16 @@
 }
 
 #component2 {
-	 z-index: 24;
+	 z-index: 22;
 	 width: 976px;
 	 height: 468px;
-	 top: 92px;
-	 left: 307px;
+	 top: 106px;
+	 left: 300px;
 	
 	 position: absolute;
-	 border-top-style: solid;
-	 border-top-width: 2px;
 	 border-top-color: rgb(178, 178, 178);
-	 border-left-style: solid;
-	 border-left-width: 2px;
 	 border-left-color: rgb(178, 178, 178);
-	 border-right-style: solid;
-	 border-right-width: 2px;
 	 border-right-color: rgb(178, 178, 178);
-	 border-bottom-style: solid;
-	 border-bottom-width: 2px;
 	 border-bottom-color: rgb(178, 178, 178);
 	 border-top-left-radius: 10px;
 	-moz-border-radius-topleft: 10px;
@@ -68,6 +176,14 @@
 	 box-shadow: rgba(255, 255, 255, 0) 0px 4px 4px 4px;
 	
 	 background-color: rgb(204, 204, 204);
+	 border-top-style: none;
+	 border-top-width: 0px;
+	 border-left-style: none;
+	 border-left-width: 0px;
+	 border-right-style: none;
+	 border-right-width: 0px;
+	 border-bottom-style: none;
+	 border-bottom-width: 0px;
 	 
 }
 
@@ -428,10 +544,10 @@
 
 #label1 {
 	 z-index: 2;
-	 width: 35px;
-	 height: 18px;
-	 top: 13px;
-	 left: 60px;
+	 width: 36px;
+	 height: 20px;
+	 top: 12px;
+	 left: 59px;
 	
 	 position: absolute;
 	 text-shadow: rgb(255, 255, 255) 0px 0px 0px;
@@ -493,10 +609,10 @@
 
 #label13 {
 	 z-index: 2;
-	 width: 44px;
-	 height: 18px;
-	 top: 13px;
-	 left: 56px;
+	 width: 40px;
+	 height: 20px;
+	 top: 12px;
+	 left: 60px;
 	
 	 position: absolute;
 	 text-shadow: rgb(255, 255, 255) 0px 0px 0px;
@@ -558,10 +674,10 @@
 
 #label12 {
 	 z-index: 2;
-	 width: 65px;
-	 height: 18px;
-	 top: 13px;
-	 left: 45px;
+	 width: 75px;
+	 height: 20px;
+	 top: 12px;
+	 left: 35px;
 	
 	 position: absolute;
 	 text-shadow: rgb(255, 255, 255) 0px 0px 0px;
@@ -623,10 +739,10 @@
 
 #label11 {
 	 z-index: 2;
-	 width: 35px;
-	 height: 18px;
-	 top: 13px;
-	 left: 60px;
+	 width: 36px;
+	 height: 20px;
+	 top: 12px;
+	 left: 59px;
 	
 	 position: absolute;
 	 text-shadow: rgb(255, 255, 255) 0px 0px 0px;
@@ -689,10 +805,10 @@
 
 #label10 {
 	 z-index: 2;
-	 width: 35px;
-	 height: 18px;
-	 top: 13px;
-	 left: 60px;
+	 width: 36px;
+	 height: 20px;
+	 top: 12px;
+	 left: 59px;
 	
 	 position: absolute;
 	 text-shadow: rgb(255, 255, 255) 0px 0px 0px;
@@ -755,8 +871,8 @@
 #label8 {
 	 z-index: 2;
 	 width: 19px;
-	 height: 18px;
-	 top: 13px;
+	 height: 20px;
+	 top: 12px;
 	 left: 68px;
 	
 	 position: absolute;
@@ -819,10 +935,10 @@
 
 #label3 {
 	 z-index: 2;
-	 width: 44px;
-	 height: 18px;
-	 top: 13px;
-	 left: 58px;
+	 width: 40px;
+	 height: 20px;
+	 top: 12px;
+	 left: 62px;
 	
 	 position: absolute;
 	 text-align: left;
@@ -885,10 +1001,10 @@
 
 #container2 {
 	 z-index: 5;
-	 width: 1216px;
-	 height: 49px;
-	 top: 583px;
-	 left: 67px;
+	 width: 1220px;
+	 height: 50px;
+	 top: 576px;
+	 left: 61px;
 	
 	 position: absolute;
 	 background-color: rgb(112, 100, 100);

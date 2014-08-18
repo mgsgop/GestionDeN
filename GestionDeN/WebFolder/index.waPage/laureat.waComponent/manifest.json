@@ -1,6 +1,1 @@
-{
-    "name"    : "laureat",    
-    "html"    : "laureat.html",
-    "styles"  : [],
-    "scripts" : ["laureat.js"]
-}
+﻿{"name":"laureat","html":"laureat.html","scripts":["laureat.js"],"styles":["laureat.css"]}

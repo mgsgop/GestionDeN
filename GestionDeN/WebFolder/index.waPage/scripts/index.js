@@ -25,7 +25,7 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 
 	imageButton10.click = function imageButton10_click (event)// @startlock
 	{// @endlock
-		waf.widgets.component2.loadComponent('/index.waPage/Page3.waComponent');
+		waf.widgets.component2.loadComponent('/index.waPage/ine3.waComponent');
 	};// @lock
 
 	imageButton9.click = function imageButton9_click (event)// @startlock

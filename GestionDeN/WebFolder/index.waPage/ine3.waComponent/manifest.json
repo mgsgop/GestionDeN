@@ -1,6 +1,1 @@
-{
-    "name"    : "ine3",    
-    "html"    : "ine3.html",
-    "styles"  : [],
-    "scripts" : ["ine3.js"]
-}
+﻿{"name":"ine3","html":"ine3.html","scripts":["ine3.js"],"styles":["ine3.css"]}

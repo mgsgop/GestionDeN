@@ -1,6 +1,1 @@
-{
-    "name"    : "all",    
-    "html"    : "all.html",
-    "styles"  : [],
-    "scripts" : ["all.js"]
-}
+﻿{"name":"all","html":"all.html","scripts":["all.js"],"styles":["all.css"]}
