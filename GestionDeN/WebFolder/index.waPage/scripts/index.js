@@ -1,4 +1,4 @@
-﻿
+
 WAF.onAfterInit = function onAfterInit() {// @lock
 
 // @region namespaceDeclaration// @startlock
@@ -7,5 +7,6 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 // eventHandlers// @lock
 
 // @region eventManager// @startlock
+	WAF.addListener("document", "onLoad", documentEvent.onLoad, "WAF");
 // @endregion
 };// @endlock

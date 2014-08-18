@@ -24,7 +24,7 @@
 	-moz-border-radius-bottomleft: 10px;
 	 border-bottom-right-radius: 10px;
 	-moz-border-radius-bottomright: 10px;
-	transform:translateX(10px);
+	-webkit-transform: translateX(10px);
 	 
 }
 
@@ -49,7 +49,7 @@
 	-moz-border-radius-bottomleft: 10px;
 	 border-bottom-right-radius: 10px;
 	-moz-border-radius-bottomright: 10px;
-	transform:translateX(10px);
+	-webkit-transform: translateX(10px);
 	 
 }
 
@@ -74,7 +74,8 @@
 	-moz-border-radius-bottomleft: 10px;
 	 border-bottom-right-radius: 10px;
 	-moz-border-radius-bottomright: 10px;
-	 transform:translateX(10px);
+	-webkit-transform: translateX(10px);
+	 
 }
 
 #icon9.waf-state-state3 {
@@ -99,7 +100,8 @@
 	-moz-border-radius-bottomleft: 10px;
 	 border-bottom-right-radius: 10px;
 	-moz-border-radius-bottomright: 10px;
-	 transform:translateX(10px);
+	-webkit-transform: translateX(10px);
+	 
 }
 
 #icon1.waf-state-state3 {
@@ -123,7 +125,8 @@
 	-moz-border-radius-bottomleft: 10px;
 	 border-bottom-right-radius: 10px;
 	-moz-border-radius-bottomright: 10px;
-	 transform:translateX(10px);
+	-webkit-transform: translateX(10px);
+	 
 }
 
 #icon7.waf-state-state3 {
@@ -147,7 +150,8 @@
 	-moz-border-radius-bottomleft: 10px;
 	 border-bottom-right-radius: 10px;
 	-moz-border-radius-bottomright: 10px;
-	 transform:translateX(10px);
+	-webkit-transform: translateX(10px);
+	 
 }
 
 #icon11.waf-state-state3 {
@@ -171,7 +175,8 @@
 	 border-left-color: rgb(0, 0, 0);
 	 border-right-color: rgb(0, 0, 0);
 	 border-bottom-color: rgb(0, 0, 0);
-	 transform:translateX(10px);
+	 -webkit-transform: translateX(10px);
+	 
 }
 
 #imageButton11.waf-state-active {
@@ -358,15 +363,14 @@
 	 border-bottom-color: rgb(0, 0, 0);
 	 -webkit-transform: rotate(10deg);
 	 
-	 
 }
 
 #label1 {
 	 z-index: 2;
-	 width: 35px;
-	 height: 18px;
-	 top: 13px;
-	 left: 61px;
+	 width: 36px;
+	 height: 20px;
+	 top: 12px;
+	 left: 59px;
 	
 	 position: absolute;
 	 text-shadow: rgb(255, 255, 255) 0px 0px 0px;
@@ -381,7 +385,7 @@
 	 width: 45px;
 	 height: 40px;
 	 top: 2px;
-	 left: 101px;
+	 left: 100px;
 	
 	 position: absolute;
 	 border-top-style: none;
@@ -428,10 +432,10 @@
 
 #label13 {
 	 z-index: 2;
-	 width: 44px;
-	 height: 18px;
-	 top: 13px;
-	 left: 56px;
+	 width: 40px;
+	 height: 20px;
+	 top: 12px;
+	 left: 60px;
 	
 	 position: absolute;
 	 text-shadow: rgb(255, 255, 255) 0px 0px 0px;
@@ -493,10 +497,10 @@
 
 #label12 {
 	 z-index: 2;
-	 width: 65px;
-	 height: 18px;
-	 top: 13px;
-	 left: 45px;
+	 width: 75px;
+	 height: 20px;
+	 top: 12px;
+	 left: 35px;
 	
 	 position: absolute;
 	 text-shadow: rgb(255, 255, 255) 0px 0px 0px;
@@ -558,10 +562,10 @@
 
 #label11 {
 	 z-index: 2;
-	 width: 35px;
-	 height: 18px;
-	 top: 13px;
-	 left: 61px;
+	 width: 36px;
+	 height: 20px;
+	 top: 12px;
+	 left: 59px;
 	
 	 position: absolute;
 	 text-shadow: rgb(255, 255, 255) 0px 0px 0px;
@@ -576,7 +580,7 @@
 	 width: 45px;
 	 height: 40px;
 	 top: 2px;
-	 left: 101px;
+	 left: 100px;
 	
 	 position: absolute;
 	 border-top-style: none;
@@ -624,10 +628,10 @@
 
 #label10 {
 	 z-index: 2;
-	 width: 35px;
-	 height: 18px;
-	 top: 13px;
-	 left: 61px;
+	 width: 36px;
+	 height: 20px;
+	 top: 12px;
+	 left: 59px;
 	
 	 position: absolute;
 	 text-shadow: rgb(255, 255, 255) 0px 0px 0px;
@@ -642,7 +646,7 @@
 	 width: 45px;
 	 height: 40px;
 	 top: 2px;
-	 left: 101px;
+	 left: 100px;
 	
 	 position: absolute;
 	 border-top-style: none;
@@ -690,8 +694,8 @@
 #label8 {
 	 z-index: 2;
 	 width: 19px;
-	 height: 18px;
-	 top: 13px;
+	 height: 20px;
+	 top: 12px;
 	 left: 68px;
 	
 	 position: absolute;
