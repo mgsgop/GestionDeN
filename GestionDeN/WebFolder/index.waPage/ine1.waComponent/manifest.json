@@ -1,0 +1,6 @@
+{
+    "name"    : "ine1",    
+    "html"    : "ine1.html",
+    "styles"  : [],
+    "scripts" : ["ine1.js"]
+}

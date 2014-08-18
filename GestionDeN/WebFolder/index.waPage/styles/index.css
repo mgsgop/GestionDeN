@@ -3,6 +3,74 @@
 	Changes to this CSS file might be lost when it is regenerated.
 */
 
+#container5 {
+	 z-index: 25;
+	 width: 240px;
+	 height: 467px;
+	 top: 91px;
+	 left: 62px;
+	
+	 position: absolute;
+	 border-top-style: none;
+	 border-top-width: 0px;
+	 border-left-style: none;
+	 border-left-width: 0px;
+	 border-right-style: none;
+	 border-right-width: 0px;
+	 border-bottom-style: none;
+	 border-bottom-width: 0px;
+	 background-color: rgb(204, 204, 204);
+	 border-top-left-radius: 10px;
+	-moz-border-radius-topleft: 10px;
+	 border-top-right-radius: 10px;
+	-moz-border-radius-topright: 10px;
+	 border-bottom-left-radius: 10px;
+	-moz-border-radius-bottomleft: 10px;
+	 border-bottom-right-radius: 10px;
+	-moz-border-radius-bottomright: 10px;
+	 -webkit-box-shadow: rgba(0, 0, 0, 0.199219) 7px 7px 10px 0px;
+	 -moz-box-shadow: rgba(0, 0, 0, 0.199219) 7px 7px 10px 0px;
+	 box-shadow: rgba(0, 0, 0, 0.199219) 7px 7px 10px 0px;
+	
+	 
+}
+
+#component2 {
+	 z-index: 24;
+	 width: 976px;
+	 height: 468px;
+	 top: 92px;
+	 left: 307px;
+	
+	 position: absolute;
+	 border-top-style: solid;
+	 border-top-width: 2px;
+	 border-top-color: rgb(178, 178, 178);
+	 border-left-style: solid;
+	 border-left-width: 2px;
+	 border-left-color: rgb(178, 178, 178);
+	 border-right-style: solid;
+	 border-right-width: 2px;
+	 border-right-color: rgb(178, 178, 178);
+	 border-bottom-style: solid;
+	 border-bottom-width: 2px;
+	 border-bottom-color: rgb(178, 178, 178);
+	 border-top-left-radius: 10px;
+	-moz-border-radius-topleft: 10px;
+	 border-top-right-radius: 10px;
+	-moz-border-radius-topright: 10px;
+	 border-bottom-left-radius: 10px;
+	-moz-border-radius-bottomleft: 10px;
+	 border-bottom-right-radius: 10px;
+	-moz-border-radius-bottomright: 10px;
+	 -webkit-box-shadow: rgba(255, 255, 255, 0) 0px 4px 4px 4px;
+	 -moz-box-shadow: rgba(255, 255, 255, 0) 0px 4px 4px 4px;
+	 box-shadow: rgba(255, 255, 255, 0) 0px 4px 4px 4px;
+	
+	 background-color: rgb(204, 204, 204);
+	 
+}
+
 #icon2.waf-state-state3 {
 	 border-top-color: rgb(0, 0, 0);
 	 border-top-style: solid;
@@ -24,7 +92,6 @@
 	-moz-border-radius-bottomleft: 10px;
 	 border-bottom-right-radius: 10px;
 	-moz-border-radius-bottomright: 10px;
-	-webkit-transform: translateX(10px);
 	 
 }
 
@@ -49,7 +116,6 @@
 	-moz-border-radius-bottomleft: 10px;
 	 border-bottom-right-radius: 10px;
 	-moz-border-radius-bottomright: 10px;
-	-webkit-transform: translateX(10px);
 	 
 }
 
@@ -74,7 +140,6 @@
 	-moz-border-radius-bottomleft: 10px;
 	 border-bottom-right-radius: 10px;
 	-moz-border-radius-bottomright: 10px;
-	-webkit-transform: translateX(10px);
 	 
 }
 
@@ -100,7 +165,6 @@
 	-moz-border-radius-bottomleft: 10px;
 	 border-bottom-right-radius: 10px;
 	-moz-border-radius-bottomright: 10px;
-	-webkit-transform: translateX(10px);
 	 
 }
 
@@ -125,7 +189,6 @@
 	-moz-border-radius-bottomleft: 10px;
 	 border-bottom-right-radius: 10px;
 	-moz-border-radius-bottomright: 10px;
-	-webkit-transform: translateX(10px);
 	 
 }
 
@@ -150,7 +213,6 @@
 	-moz-border-radius-bottomleft: 10px;
 	 border-bottom-right-radius: 10px;
 	-moz-border-radius-bottomright: 10px;
-	-webkit-transform: translateX(10px);
 	 
 }
 
@@ -175,7 +237,6 @@
 	 border-left-color: rgb(0, 0, 0);
 	 border-right-color: rgb(0, 0, 0);
 	 border-bottom-color: rgb(0, 0, 0);
-	 -webkit-transform: translateX(10px);
 	 
 }
 
@@ -367,10 +428,10 @@
 
 #label1 {
 	 z-index: 2;
-	 width: 36px;
-	 height: 20px;
-	 top: 12px;
-	 left: 59px;
+	 width: 35px;
+	 height: 18px;
+	 top: 13px;
+	 left: 60px;
 	
 	 position: absolute;
 	 text-shadow: rgb(255, 255, 255) 0px 0px 0px;
@@ -407,11 +468,11 @@
 }
 
 #imageButton1 {
-	 z-index: 20;
+	 z-index: 5;
 	 width: 206px;
 	 height: 45px;
-	 top: 226px;
-	 left: 103px;
+	 top: 135px;
+	 left: 15px;
 	
 	 position: absolute;
 	 border-top-left-radius: 10px;
@@ -432,10 +493,10 @@
 
 #label13 {
 	 z-index: 2;
-	 width: 40px;
-	 height: 20px;
-	 top: 12px;
-	 left: 60px;
+	 width: 44px;
+	 height: 18px;
+	 top: 13px;
+	 left: 56px;
 	
 	 position: absolute;
 	 text-shadow: rgb(255, 255, 255) 0px 0px 0px;
@@ -472,11 +533,11 @@
 }
 
 #imageButton12 {
-	 z-index: 19;
+	 z-index: 7;
 	 width: 206px;
 	 height: 45px;
-	 top: 490px;
-	 left: 103px;
+	 top: 395px;
+	 left: 15px;
 	
 	 position: absolute;
 	 border-top-left-radius: 10px;
@@ -497,10 +558,10 @@
 
 #label12 {
 	 z-index: 2;
-	 width: 75px;
-	 height: 20px;
-	 top: 12px;
-	 left: 35px;
+	 width: 65px;
+	 height: 18px;
+	 top: 13px;
+	 left: 45px;
 	
 	 position: absolute;
 	 text-shadow: rgb(255, 255, 255) 0px 0px 0px;
@@ -537,11 +598,11 @@
 }
 
 #imageButton11 {
-	 z-index: 18;
+	 z-index: 6;
 	 width: 206px;
 	 height: 45px;
-	 top: 424px;
-	 left: 104px;
+	 top: 329px;
+	 left: 16px;
 	
 	 position: absolute;
 	 border-top-left-radius: 10px;
@@ -562,10 +623,10 @@
 
 #label11 {
 	 z-index: 2;
-	 width: 36px;
-	 height: 20px;
-	 top: 12px;
-	 left: 59px;
+	 width: 35px;
+	 height: 18px;
+	 top: 13px;
+	 left: 60px;
 	
 	 position: absolute;
 	 text-shadow: rgb(255, 255, 255) 0px 0px 0px;
@@ -603,11 +664,11 @@
 }
 
 #imageButton10 {
-	 z-index: 17;
+	 z-index: 4;
 	 width: 206px;
 	 height: 45px;
-	 top: 358px;
-	 left: 105px;
+	 top: 267px;
+	 left: 17px;
 	
 	 position: absolute;
 	 border-top-left-radius: 10px;
@@ -628,10 +689,10 @@
 
 #label10 {
 	 z-index: 2;
-	 width: 36px;
-	 height: 20px;
-	 top: 12px;
-	 left: 59px;
+	 width: 35px;
+	 height: 18px;
+	 top: 13px;
+	 left: 60px;
 	
 	 position: absolute;
 	 text-shadow: rgb(255, 255, 255) 0px 0px 0px;
@@ -668,11 +729,11 @@
 }
 
 #imageButton9 {
-	 z-index: 16;
+	 z-index: 3;
 	 width: 206px;
 	 height: 45px;
-	 top: 292px;
-	 left: 104px;
+	 top: 201px;
+	 left: 16px;
 	
 	 position: absolute;
 	 border-top-left-radius: 10px;
@@ -694,8 +755,8 @@
 #label8 {
 	 z-index: 2;
 	 width: 19px;
-	 height: 20px;
-	 top: 12px;
+	 height: 18px;
+	 top: 13px;
 	 left: 68px;
 	
 	 position: absolute;
@@ -733,11 +794,11 @@
 }
 
 #imageButton7 {
-	 z-index: 15;
+	 z-index: 2;
 	 width: 206px;
 	 height: 45px;
-	 top: 164px;
-	 left: 103px;
+	 top: 73px;
+	 left: 15px;
 	
 	 position: absolute;
 	 border-top-left-radius: 10px;
@@ -761,7 +822,7 @@
 	 width: 44px;
 	 height: 18px;
 	 top: 13px;
-	 left: 56px;
+	 left: 58px;
 	
 	 position: absolute;
 	 text-align: left;
@@ -777,7 +838,7 @@
 	 width: 40px;
 	 height: 40px;
 	 top: 2px;
-	 left: 105px;
+	 left: 107px;
 	
 	 position: absolute;
 	 border-top-style: none;
@@ -799,11 +860,11 @@
 }
 
 #imageButton2 {
-	 z-index: 10;
+	 z-index: 1;
 	 width: 206px;
 	 height: 45px;
-	 top: 101px;
-	 left: 103px;
+	 top: 10px;
+	 left: 15px;
 	
 	 position: absolute;
 	 border-top-left-radius: 10px;
